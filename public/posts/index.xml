@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Josh Blades</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Josh Blades</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 10 Nov 2024 20:49:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rented Servers to Self Hosting everything</title>
+      <link>http://localhost:1313/posts/rented-servers-to-self-hosting-everything/</link>
+      <pubDate>Sun, 10 Nov 2024 20:49:20 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rented-servers-to-self-hosting-everything/</guid>
+      <description>&lt;p&gt;For many years (on/off) I&amp;rsquo;ve rented dedicated servers from the likes of OVH. This has many advantages over typical shared VPS hosting as your processes don&amp;rsquo;t need to compete for CPU time with other tenants on the hypervisor. At the start of the year however, I decided to build my own Home Server and move away from a rented solution.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

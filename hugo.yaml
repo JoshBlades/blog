@@ -1,0 +1,11 @@
+baseURL: 'https://joshblades.co.uk/'
+languageCode: 'en-gb'
+title: 'Josh Blades'
+theme: 'mini'
+tags: ['server', 'selfhosted', 'build']
+
+summarylength: 20
+
+params:
+  Bio: Professional Software Side Quester
+  showToc: true
